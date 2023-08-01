@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Python back-end developer.
+- 🔭 I’m currently working as Python back-end developer at Democracia Beta app.
 - 👯 I’m looking to collaborate on back-end projects and data analysis.
 - 💬 Ask me about Python development and Statistics.
 - 📫 How to reach me: laurateixeiracm@gmail.com
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/laurateixeira)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurateixeira&show_icons=true&theme=dracula&count_private=true&hide=issues)
 
 
 <!--
