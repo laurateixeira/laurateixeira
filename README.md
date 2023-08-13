@@ -6,7 +6,7 @@
 - 📫 How to reach me: laurateixeiracm@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurateixeira&show_icons=true&theme=dracula&count_private=true&hide=issues)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurateixeira&layout=compact&hide=html)
 
 <!--
 **laurateixeira/laurateixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
